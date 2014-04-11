@@ -285,7 +285,7 @@ The cpan-uploads mailing list (read only).
 
 =over 4
 
-http://birmingham.pm.org/talks/barbie/ct-future/index.html
+=item * L<http://birmingham.pm.org/talks/barbie/ct-future/index.html>
 
 The Future of CPAN Testers. A short talk about some of planned projects for 
 CPAN Testers. Presented at LPW 2013.
