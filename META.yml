@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                   CPAN-Testers
-version:                0.04
+version:                0.05
 abstract:               QA of CPAN distributions via cross-platform testing
 author:
     - Adam J. Foxson <afoxson@pobox.com>
@@ -29,7 +29,7 @@ recommends:
 provides:
   CPAN::Testers:
     file:     lib/CPAN/Testers.pm
-    version:  0.04
+    version:  0.05
 no_index:
   directory:
     - t

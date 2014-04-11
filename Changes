@@ -1,5 +1,6 @@
 Revision history for Perl extension CPAN::Testers.
 
+0.05    2014-04-11
         - documenttion updates.
         - added LICENSE file.
         - added git repo links.
