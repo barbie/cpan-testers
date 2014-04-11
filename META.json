@@ -59,5 +59,11 @@
     "resources": {
         "license": "http://www.perlfoundation.org/artistic_license_2_0",
         "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=CPAN-Testers" }
+        "homepage": "http://www.cpantesters.org",
+        "repository": {
+            "url": "git://github.com/barbie/cpan-testers.git",
+            "web": "http://github.com/barbie/cpan-testers",
+            "type": "git"
+        }
     }
 }
