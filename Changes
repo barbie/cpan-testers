@@ -1,6 +1,7 @@
 Revision history for Perl extension CPAN::Testers.
 
         - documenttion updates.
+        - added LICENSE file.
 
 0.04    2012-09-26
         - change file dates changed to meet W3CDTF standards.
