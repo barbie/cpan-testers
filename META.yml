@@ -18,6 +18,8 @@ build_requires:
 build_requires:
   IO::File:               0
   Test::More:             0.70
+requires:
+  perl:                   5.006
 recommends:
   Test::CPAN::Meta:       0
   Test::CPAN::Meta::JSON: 0
@@ -34,7 +36,7 @@ no_index:
     - examples
 
 resources:
-  license:    http://dev.perl.org/licenses/
+  license:    http://www.perlfoundation.org/artistic_license_2_0
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=CPAN-Testers
 
 meta-spec:
