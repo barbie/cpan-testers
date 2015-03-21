@@ -1,6 +1,6 @@
 {
     "name" : "CPAN-Testers",
-    "version" : "0.06",
+    "version" : "0.07",
     "abstract" : "QA of CPAN distributions via cross-platform testing",
     "author" : [
         "Adam J. Foxson <afoxson@pobox.com>",
@@ -52,7 +52,7 @@
     "provides" : {
         "CPAN::Testers" : {
             "file" : "lib/CPAN/Testers.pm",
-            "version" : "0.06"
+            "version" : "0.07"
         }
     },
 

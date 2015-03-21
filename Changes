@@ -1,6 +1,7 @@
 Revision history for CPAN-Testers
 =================================
 
+0.07    2015-03-21
         - fixed duplicate key 'build_requires' RT#102876 (thanks Andreas).
 
 0.06    2014-09-06
