@@ -398,7 +398,7 @@ David Golden
 =head1 COPYRIGHT AND LICENSE
 
   Copyright (C) 2007-2010 Adam J. Foxson and the CPAN Testers
-  Copyright (C) 2010-2014 CPAN Testers
+  Copyright (C) 2010-2015 CPAN Testers
 
 This distribution is free software; you can redistribute it and/or
 modify it under the Artistic License v2.
