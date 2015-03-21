@@ -12,10 +12,9 @@ distribution_type:      module
 installdirs:            site
 
 configure_requires:
-    ExtUtils::MakeMaker:  0
+  ExtUtils::MakeMaker:  0
 build_requires:
-    ExtUtils::MakeMaker:  0
-build_requires:
+  ExtUtils::MakeMaker:  0
   IO::File:               0
   Test::More:             0.70
 requires:

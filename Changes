@@ -1,6 +1,8 @@
 Revision history for CPAN-Testers
 =================================
 
+        - fixed duplicate key 'build_requires' RT#102876 (thanks Andreas).
+
 0.06    2014-09-06
         - fixed license fields in META.json to be lists.
         - extended test suite.
